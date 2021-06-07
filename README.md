@@ -31,47 +31,47 @@ Atrial fibrillation (AF) is an irregular and often rapid heart rate that can inc
 ## 5 EDA:
 ### 5.1 Which gender usually has a higher risk of getting AF?
 <p>
-    <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/rhythm_by_sex.png" />
+    <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/rhythm_by_sex.PNG" />
 </p>
 <p>Female patients are at higher risk of getting AF than male patients.</p>
 
 ### 5.2 Which age-group is associated with higher risk of having AF than others?
 <p>
-  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/rhythm_by_age.png" />
+  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/rhythm_by_age.PNG" />
 </p>
 <p>Patients who are 70 to 89 years old have a higher risk of having AF than others.</p>
             
 ### 5.3 What is the common weight of patients who have AF?
 <p>
-  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/rhythm_by_weight.png" />
+  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/rhythm_by_weight.PNG" />
 </p>
 <p>Patients who have AF are usually less than 60 kg, or 60 to 79 kg.</p>
 
 ### 5.4 What is the common height of patients who have AF?
 <p>
-  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/rhythm_by_height.png" />
+  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/rhythm_by_height.PNG" />
 </p>
 <p>Patients who have AF are usually from 1.50 m to 1.79 m.</p>
 
 ### 5.5 What is the most common heart's electrical axis associated with AF patients?
 <p>
-  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/rhythm_by_heart_axis.png" />
+  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/rhythm_by_heart_axis.PNG" />
 </p>
 <p>Most AF patients have normal heart's electrical axis.</p>
 
 ### 5.6 Normal ECG
 <p>
-  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/normal_ecg.png" />
+  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/normal_ecg.PNG" />
 </p>
 
 ### 5.7 Atrial Fibrillation ECG
 <p>
-  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/atrial_fibrillation_ecg.png" />
+  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/atrial_fibrillation_ecg.PNG" />
 </p>
 
 ### 5.8 Other Arrhythmia ECG
 <p>
-  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/other_arrhythmia_ecg.png" />
+  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/other_arrhythmia_ecg.PNG" />
 </p>
 
 More details of EDA:
@@ -79,7 +79,7 @@ More details of EDA:
 
 ## 6. Modeling
 <p>
-<img src = "https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/modeling.png" />
+<img src = "https://github.com/tvo10/atrial-fibrillation-detection/blob/master/img/modeling.PNG" />
 </p>
 
 For more details: 
