@@ -89,7 +89,7 @@ For more details:
 [Feature Engineering](https://github.com/tvo10/atrial-fibrillation-detection/blob/main/03_afib_detection_feature_engineering.ipynb)
 
 ## 6. Modeling
-We applied the Random Forest algorithm, then tuned the model with GridSearchCV and got almost 0.99 for the accuracy score.
+We applied the Random Forest algorithm, then tuned the model with GridSearchCV and got almost 0.99 for the accuracy score. The model can be found [here](https://drive.google.com/file/d/1AsWFJ771o4YRJ5F3ALB6iKJAfVoPKQgt/view?usp=sharing)
 <p>
 <img src = "https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/modeling.PNG" />
 </p>
