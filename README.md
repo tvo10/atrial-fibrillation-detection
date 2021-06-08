@@ -31,7 +31,7 @@ Atrial fibrillation (AF) is an irregular and often rapid heart rate that can inc
 ## 5 EDA:
 ### 5.1 Which gender usually has a higher risk of getting AF?
 <p>
-    <img src="https://github.com/tvo10/atrial-fibrillation-detection/tree/main/img/rhythm_by_sex.PNG" />
+    <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_sex.PNG" />
 </p>
 <p>Female patients are at higher risk of getting AF than male patients.</p>
 
