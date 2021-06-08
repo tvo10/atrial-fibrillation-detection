@@ -2,7 +2,7 @@
 ![cover_photo](./img/AFib-Animation.gif)
 
 # Capstone Project II
-1.	[Background](#1-backround)
+1.	[Background](#1-background)
 2.	[Data Sources](#2-data-sources)
 3.  [Data Wrangling](#3-data-wrangling)
 4.  [EDA](#4-eda)
@@ -16,8 +16,8 @@ Atrial fibrillation (AF) is an irregular and often rapid heart rate that can inc
 How to help patients and physicians detect Atrial Fibrillation (AF) in an early stage and provide treatment promptly as needed to reduce 10% of patients who are at high risk of having a stroke, a heart attack, and even a heart failure caused by AF by the end of 2021?
 
 ## 2. Data Sources
-- coorteeqsrafva.csv: This is a subset of the PTB-XL, a large publicly available electrocardiography dataset, found on [Kaggle](https://www.kaggle.com/arjunascagnetto/ptbxl-atrial-fibrillation-detection), which consists of 6428 rows and 30 columns. 
-- ecgeq-500hzsrfava.npy: This numpy file is a 3D array, which contains 6428 layers, 5000 rows, and 12 columns. 12 columns represent for 12 leads. An ECG lead is a graphical description of the electrical activity of the heart and it is created by analysing several electrodes.
+- **coorteeqsrafva.csv:** This is a subset of the PTB-XL, a large publicly available electrocardiography dataset, found on [Kaggle](https://www.kaggle.com/arjunascagnetto/ptbxl-atrial-fibrillation-detection), which consists of 6428 rows and 30 columns. 
+- **ecgeq-500hzsrfava.npy:** This numpy file is a 3D array, which contains 6428 layers, 5000 rows, and 12 columns. 12 columns represent for 12 leads. An ECG lead is a graphical description of the electrical activity of the heart and it is created by analysing several electrodes.
 
 
 ## 3. Data Wrangling
