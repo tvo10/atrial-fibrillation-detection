@@ -29,31 +29,31 @@ How to help patients and physicians detect Atrial Fibrillation (AF) in an early 
 <p>
     <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_sex.PNG" />
 </p>
-<p><b>Female patients are at higher risk of getting AF than male patients.</b></p>
+<p style="text-align:center"><b>Female patients are at higher risk of getting AF than male patients.</b></p>
 
 ### Which age-group is associated with higher risk of having AF than others?
 <p>
   <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_age.PNG" />
 </p>
-<p><b>Patients who are 70 to 89 years old have a higher risk of having AF than others.</b></p>
+<p style="text-align:center"><b>Patients who are 70 to 89 years old have a higher risk of having AF than others.</b></p>
             
 ### What is the common weight of patients who have AF?
 <p>
   <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_weight.PNG" />
 </p>
-<p><b>Patients who have AF are usually less than 60 kg, or 60 to 79 kg.</b></p>
+<p style="text-align:center"><b>Patients who have AF are usually less than 60 kg, or 60 to 79 kg.</b></p>
 
 ### What is the common height of patients who have AF?
 <p>
   <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_height.PNG" />
 </p>
-<p><b>Patients who have AF are usually from 1.50 m to 1.79 m.</b></p>
+<p style="text-align:center"><b>Patients who have AF are usually from 1.50 m to 1.79 m.</b></p>
 
 ### What is the most common heart's electrical axis associated with AF patients?
 <p>
   <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_heart_axis.PNG" />
 </p>
-<p><b>Most AF patients have normal heart's electrical axis.</b></p>
+<p style="text-align:center"><b>Most AF patients have normal heart's electrical axis.</b></p>
 
 ### Normal ECG
 <p>
