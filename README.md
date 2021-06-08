@@ -76,24 +76,24 @@ More details of EDA:
 ## 5. Modeling
 <p>We generated a dataset that includes all the features from the numpy file and 14 features from the csv file. The final dataset has a total of 4,319,176 observations and 26 variables.
 </p>
-|Features|
+| Features |
 | ---      | ---       |
-|I|sex|
-|II|height|
-|III|weight|
-|aVF|nurse|
-|aVR|site|
-|aVL|device|
-|V1|heart_axis|
-|V2|validated_by|
-|V3|second_opinion|
-|V4|validated_by_human|
-|V5|pacemaker|
-|V6|strat_fold|
-|age|
+| I | sex |
+| II | height |
+| III | weight |
+| aVF | nurse |
+| aVR | site |
+| aVL | device |
+| V1 | heart_axis |
+| V2 | validated_by |
+| V3 | second_opinion |
+| V4 | validated_by_human |
+| V5 | pacemaker |
+| V6 | strat_fold |
+| age |
 | ---      | ---       |
-|Label|
-|ritmi|
+| Label |
+| ritmi |
 <p>
 <img src = "https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/modeling.PNG" />
 </p>
