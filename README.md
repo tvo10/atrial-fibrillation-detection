@@ -26,11 +26,16 @@ These two datasets are obtained on [Kaggle](https://www.kaggle.com/arjunascagnet
 [Data Wrangling](https://github.com/tvo10/atrial-fibrillation-detection/blob/main/01_afib_detection_data_wrangling.ipynb)
 
 ## 4. EDA
-### Which gender usually has a higher risk of getting AF?
+### There are three classes:
+- 0: Normal (SR)
+- 1: Atrial Fibrillation (AF)
+- 2: All other arrhythmia (VA)
+
+### Which gender usually has a higher risk of getting AF? (Light green is male, blue is female)
 <p>
     <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_sex.PNG" />
 </p>
-<p><b>➣ Female patients are at higher risk of getting AF than male patients.</b></p>
+<p><b>➣ Male patients are at higher risk of getting AF than male patients.</b></p>
 
 ### Which age-group is associated with higher risk of having AF than others?
 <p>
