@@ -33,11 +33,11 @@ Atrial fibrillation (AF) is an irregular and often rapid heart rate that can inc
 <p>
     <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_sex.PNG" />
 </p>
-<p>Female patients are at higher risk of getting AF than male patients.</p>
+<p float="center">Female patients are at higher risk of getting AF than male patients.</p>
 
 ### 5.2 Which age-group is associated with higher risk of having AF than others?
 <p>
-  <img src="https://github.com/tvo10/atrial-fibrillation-detection/tree/main/img/rhythm_by_age.PNG" />
+  <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_age.PNG" />
 </p>
 <p>Patients who are 70 to 89 years old have a higher risk of having AF than others.</p>
             
