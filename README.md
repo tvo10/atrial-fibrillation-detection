@@ -8,7 +8,6 @@
 4.  [EDA](#4-eda)
 5.  [Modeling](#5-modeling)
 6.	[Reports](#6-reports)
-<br/><br/>
 
 ## 1. Background
 Atrial fibrillation (AF) is an irregular and often rapid heart rate that can increase your risk of strokes, heart failure and other heart-related complications. AF symptoms often include heart palpitations, shortness of breath and weakness. AF is also independently associated with a significantly greater risk of mortality. For instance, AF patients have a 46% greater risk of mortality than patients without AF and the rate of mortality is 40% among new patients diagnosed with AF. Around 15-30% of patients are asymptomatic, which is of concern as AF is a major risk factor for stroke. As AF progresses, patients are more likely to experience greater impairments in their quality of life, such as increased pain and discomfort. Early detection and appropriate management reduce stroke risk by two-thirds. As a result, early detection of AF is important to ensure prompt and adequate management which not only aims to control symptoms but to avoid later complications.
