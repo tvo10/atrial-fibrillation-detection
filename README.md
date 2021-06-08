@@ -29,31 +29,31 @@ How to help patients and physicians detect Atrial Fibrillation (AF) in an early 
 <p>
     <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_sex.PNG" />
 </p>
-<p style="text-align:center"><b>Female patients are at higher risk of getting AF than male patients.</b></p>
+<p><b>➣ Female patients are at higher risk of getting AF than male patients.</b></p>
 
 ### Which age-group is associated with higher risk of having AF than others?
 <p>
   <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_age.PNG" />
 </p>
-<p style="text-align:center"><b>Patients who are 70 to 89 years old have a higher risk of having AF than others.</b></p>
+<p><b>➣ Patients who are 70 to 89 years old have a higher risk of having AF than others.</b></p>
             
 ### What is the common weight of patients who have AF?
 <p>
   <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_weight.PNG" />
 </p>
-<p style="text-align:center"><b>Patients who have AF are usually less than 60 kg, or 60 to 79 kg.</b></p>
+<p><b>➣ Patients who have AF are usually less than 60 kg, or 60 to 79 kg.</b></p>
 
 ### What is the common height of patients who have AF?
 <p>
   <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_height.PNG" />
 </p>
-<p style="text-align:center"><b>Patients who have AF are usually from 1.50 m to 1.79 m.</b></p>
+<p><b>➣ Patients who have AF are usually from 1.50 m to 1.79 m.</b></p>
 
 ### What is the most common heart's electrical axis associated with AF patients?
 <p>
   <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/rhythm_by_heart_axis.PNG" />
 </p>
-<p style="text-align:center"><b>Most AF patients have normal heart's electrical axis.</b></p>
+<p><b>➣ Most AF patients have normal heart's electrical axis.</b></p>
 
 ### Normal ECG
 <p>
@@ -74,6 +74,26 @@ More details of EDA:
 [Exploratory Data Analysis](https://github.com/tvo10/atrial-fibrillation-detection/blob/main/02_afib_detection_eda.ipynb)
 
 ## 5. Modeling
+<p>We generated a dataset that includes all the features from the numpy file and 14 features from the csv file. The final dataset has a total of 4,319,176 observations and 26 variables.
+</p>
+|Features|
+| ---      | ---       |
+|I|sex|
+|II|height|
+|III|weight|
+|aVF|nurse|
+|aVR|site|
+|aVL|device|
+|V1|heart_axis|
+|V2|validated_by|
+|V3|second_opinion|
+|V4|validated_by_human|
+|V5|pacemaker|
+|V6|strat_fold|
+|age|
+| ---      | ---       |
+|Label|
+|ritmi|
 <p>
 <img src = "https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/modeling.PNG" />
 </p>
