@@ -117,4 +117,4 @@ For more details:
 
 ## 6. Reports
 1. [Capstone Project II Final Report](https://github.com/tvo10/atrial-fibrillation-detection/blob/main/afib_detection_report.pdf)
-2. [Capstone Project II Final Presentation](https://docs.google.com/presentation/d/1hBh9Pb7svQN0gg5JdP9LnS4gQ1PKYUQXwtJT0ZPAKVg/edit#slide=id.gdbd7bf2743_0_47)
+2. [Capstone Project II Final Presentation](https://docs.google.com/presentation/d/1hBh9Pb7svQN0gg5JdP9LnS4gQ1PKYUQXwtJT0ZPAKVg/edit?usp=sharing)
