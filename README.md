@@ -70,19 +70,45 @@ How to help patients and physicians detect Atrial Fibrillation (AF) in an early 
   <img src="https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/other_arrhythmia_ecg.PNG" />
 </p>
 
-More details of EDA:
+For more details: 
 [Exploratory Data Analysis](https://github.com/tvo10/atrial-fibrillation-detection/blob/main/02_afib_detection_eda.ipynb)
 
 ## 5. Modeling
-<p>We generated a dataset that includes all the features from the numpy file and 14 features from the csv file. The final dataset has a total of 4,319,176 observations and 26 variables.
+<p>We generated a dataset that includes all the features from the numpy file and 14 features from the csv file. The final dataset has a total of 4,319,176 observations and 26 variables. Afterwards, we applied the Random Forest algorithm and got almost 0.99 for the accuracy score.
 </p>
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Label |
+|:---:|
+| ritmi |
 
 
+| Features  | 
+| :----: |
+| I |
+| II |
+| III |
+| aVF |
+| aVR |
+| aVL |
+| V1 |
+| V2 |
+| V3 |
+| V4 |
+| V5 |
+| V6 |
+| age |
+| sex |
+| height |
+| weight |
+| nurse |
+| site |
+| device |
+| heart_axis |
+| validated_by |
+| second_opinion |
+| validated_by_human |
+| pacemaker |
+| start_fold |
 <p>
 <img src = "https://github.com/tvo10/atrial-fibrillation-detection/blob/main/img/modeling.PNG" />
 </p>
