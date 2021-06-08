@@ -17,7 +17,8 @@ Atrial fibrillation (AF) is an irregular and often rapid heart rate that can inc
 How to help patients and physicians detect Atrial Fibrillation (AF) in an early stage and provide treatment promptly as needed to reduce 10% of patients who are at high risk of having a stroke, a heart attack, and even a heart failure caused by AF by the end of 2021?
 
 ## 2. Data Sources
-- **coorteeqsrafva.csv:** This is a subset of the PTB-XL, a large publicly available electrocardiography dataset, found on [Kaggle](https://www.kaggle.com/arjunascagnetto/ptbxl-atrial-fibrillation-detection), which consists of 6428 rows and 30 columns. 
+These two datasets are obtained on [Kaggle](https://www.kaggle.com/arjunascagnetto/ptbxl-atrial-fibrillation-detection)
+- **coorteeqsrafva.csv:** This is a subset of the PTB-XL, a large publicly available electrocardiography dataset, which consists of 6428 rows and 30 columns. 
 - **ecgeq-500hzsrfava.npy:** This numpy file is a 3D array, which contains 6428 layers, 5000 rows, and 12 columns. 12 columns represent for 12 leads. An ECG lead is a graphical description of the electrical activity of the heart and it is created by analysing several electrodes.
 
 
@@ -78,6 +79,9 @@ Since this project is all about the pattern recognition. We would like to detect
 
 - **Features:** `I`, `II`, `III`, `aVF`, `aVR`, `aVL`, `V1`, `V2`, `V3`, `V4`, `V5`, `V6`, `age`, `sex`, `height`, `weight`, `nurse`, `site`, `device`, `heart_axis`, `validated_by`, `second_opinion`, `validated_by_human`, `pacemaker`, `strat_fold`
 - **Label:** `ritmi`
+
+For more details: 
+[Feature Engineering](https://github.com/tvo10/atrial-fibrillation-detection/blob/main/03_afib_detection_feature_engineering.ipynb)
 
 ## 6. Modeling
 We applied the Random Forest algorithm, then tuned the model with GridSearchCV and got almost 0.99 for the accuracy score.
