@@ -77,8 +77,10 @@ More details of EDA:
 <p>We generated a dataset that includes all the features from the numpy file and 14 features from the csv file. The final dataset has a total of 4,319,176 observations and 26 variables.
 </p>
 
-| Features |
-| --- | --- |
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 
 <p>
